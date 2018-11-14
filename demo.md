@@ -15,7 +15,7 @@ partners: []
 show_staff: false
 menu:
   navigation:
-    weight: 6
+    weight: 2
 published: false
 
 ---
