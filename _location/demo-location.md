@@ -5,6 +5,5 @@ street_address: My demo address
 city: New demo address
 state: Address
 slug: address
-published: false
 
 ---
