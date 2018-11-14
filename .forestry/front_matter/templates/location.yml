@@ -22,4 +22,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _location/demo-location.md
 - _location/test.md
