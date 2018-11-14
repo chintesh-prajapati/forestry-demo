@@ -5,6 +5,9 @@ street_address: New location
 city: New city
 state: New state
 slug: state
+menu:
+  navigation:
+    weight: 6
 published: false
 
 ---
