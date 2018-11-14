@@ -22,5 +22,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _location/qwd.md
 - _location/demo-location.md
 - _location/test.md
