@@ -25,4 +25,5 @@ fields:
   hidden: true
   default: post
 pages:
+- location.md
 - demo-page.md
