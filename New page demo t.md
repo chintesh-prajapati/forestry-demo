@@ -5,10 +5,6 @@ street_address: ''
 city: ''
 state: ''
 slug: ''
-menu:
-  navigation:
-    weight: 2
-    title: Test demo
 
 ---
 qwdqwdqwdqwdqwdqdwdwqwdqwdqwddqwdw
