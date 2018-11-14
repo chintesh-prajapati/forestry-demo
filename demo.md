@@ -14,6 +14,9 @@ show_news: false
 partners: []
 show_staff: false
 menu:
+  footer:
+    weight: 4
+    title: demo
   navigation:
     weight: 2
 published: false
