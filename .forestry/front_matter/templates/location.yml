@@ -1,0 +1,23 @@
+---
+label: location
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: street_address
+  label: Street Address
+- name: city
+  label: City
+  type: text
+  hidden: false
+  default: ''
+- name: state
+  label: State
+  type: text
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
