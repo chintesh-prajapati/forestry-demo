@@ -5,6 +5,5 @@ street_address: demo project
 city: Demo
 state: Demo
 slug: review
-published: false
 
 ---
