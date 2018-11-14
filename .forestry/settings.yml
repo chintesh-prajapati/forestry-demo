@@ -11,7 +11,7 @@ sections:
   create: all
   templates:
   - posts
-- type: directory
+- type: directory 
   label: Location
   create: all
   templates:
