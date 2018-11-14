@@ -5,6 +5,5 @@ street_address: Address
 city: City address
 state: State Address
 slug: address
-published: false
 
 ---
