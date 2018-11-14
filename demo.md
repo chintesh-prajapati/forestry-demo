@@ -5,7 +5,6 @@ street_address: ''
 city: ''
 state: ''
 slug: ''
-published: false
 
 ---
 qwdqwdqwdqwdqwdqdwdw
