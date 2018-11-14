@@ -17,7 +17,7 @@ sections:
   create: all
   match: "*"
   templates:
-  - location 
+  - location
 - type: jekyll-pages
   label: Pages
   create: all
