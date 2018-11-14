@@ -5,5 +5,9 @@ street_address: My demo address
 city: New demo address
 state: Address
 slug: address
+menu:
+  footer:
+    weight: 4
+    title: demo
 
 ---
