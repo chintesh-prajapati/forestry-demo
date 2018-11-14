@@ -11,6 +11,11 @@ sections:
   create: all
   templates:
   - posts
+- type: jekyll-location
+  label: Location
+  create: all
+  templates:
+  - posts  
 - type: jekyll-pages
   label: Pages
   create: all
