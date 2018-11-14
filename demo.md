@@ -13,8 +13,5 @@ services: []
 show_news: false
 partners: []
 show_staff: false
-menu:
-  navigation:
-    weight: 2
 
 ---
