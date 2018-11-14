@@ -19,6 +19,5 @@ menu:
     title: demo
   navigation:
     weight: 2
-published: false
 
 ---
