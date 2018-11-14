@@ -15,7 +15,7 @@ sections:
   label: Location
   create: all
   templates:
-  - posts  
+  - default  
 - type: jekyll-pages
   label: Pages
   create: all
