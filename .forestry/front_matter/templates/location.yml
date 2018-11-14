@@ -22,7 +22,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- New page demo.md
+- New page demo t.md
 - _location/werwerwerwerwerwerwrer.md
 - _location/test-1.md
 - _location/demo-location.md
