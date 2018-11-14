@@ -28,5 +28,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _location/wd.md
 - _location/test.md
