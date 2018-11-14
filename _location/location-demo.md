@@ -5,8 +5,5 @@ street_address: Address
 city: City address
 state: State Address
 slug: address
-menu:
-  navigation:
-    weight: 2
 
 ---
