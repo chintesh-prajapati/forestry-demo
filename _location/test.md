@@ -8,6 +8,5 @@ slug: state
 menu:
   navigation:
     weight: 6
-published: false
 
 ---
