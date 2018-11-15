@@ -5,10 +5,6 @@ street_address: Test
 city: Test
 state: test
 slug: test
-menu:
-  navigation:
-    weight: 3
-    title: Location
 
 ---
 eryetrtertetrert
