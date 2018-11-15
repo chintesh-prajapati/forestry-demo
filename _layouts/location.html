@@ -1,29 +1,19 @@
----
-layout: location
----
 {% comment %}
-This layout is used to by located.md to display all of documents in
-the _location/ collection
-{% endcomment %}
+The default layout for the site, which is extended by all other layouts.
+Includes the document <head>, main navigation and page footer
+	{% endcomment %}
 
-{% include breadcrumbs.html %}
+	{% include head.html %}
 
-<div class="container pure-g">
-	<div class="pure-u-1">
-		<div class="content">
-			<div class="grid-layout">
-				<div class="container pure-g">
+	{% include nav.html %}
 
-					<div class="pure-u-1 pure-u-md-1-3">
-						<div class="card">
-							<div class="card-header">
-								qwpjqwppqwekpqwkqwew
-							</div>
-						</div>
-					</div>
+	{% include hero.html %}
 
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+	{% comment %}
+	Any layout that extends this layout will have its contents
+	added as the content variable
+	{% endcomment %}
+
+	{{ content }}
+
+	{% include footer.html %}
