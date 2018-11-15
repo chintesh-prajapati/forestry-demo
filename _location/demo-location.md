@@ -7,6 +7,6 @@ state: Address
 slug: address
 menu:
   navigation:
-    weight: 6
+    weight: 2
 
 ---
