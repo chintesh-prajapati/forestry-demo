@@ -22,8 +22,6 @@ fields:
   type: text
   hidden: false
   default: test
-- type: text
-  default: New address
 pages:
 - _location/location-15-11-2018-1.md
 - _location/test.md
