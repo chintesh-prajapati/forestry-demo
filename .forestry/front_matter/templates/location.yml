@@ -23,9 +23,7 @@ fields:
   default: ''
 pages:
 - _location/location-demo.md
-- _location/demo-location-17-11-2018.md
 - New page demo t.md
-- _location/werwerwerwerwerwerwrer.md
 - _location/test-1.md
 - _location/demo-location.md
 - _location/test.md
