@@ -1,9 +1,10 @@
 ---
 title: Test
-date: 2018-11-14 06:59:39 +0000
-street_address: New location
-city: New city
-state: New state
-slug: state
+date: 2018-11-15 11:10:33 +0000
+street_address: Test
+city: Test
+state: test
+slug: test
 
 ---
+setetse setstset set sets sets etst
