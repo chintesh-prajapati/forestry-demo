@@ -7,16 +7,4 @@ state: test
 slug: test
 
 ---
-Lorem ipsum 
-
-Lorem ipsum 
-
-Lorem ipsum 
-
-Lorem ipsum 
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
+eryetrtertetrert
