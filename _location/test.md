@@ -5,7 +5,6 @@ street_address: Test
 city: Test
 state: test
 slug: test
-published: false
 
 ---
 setetse setstset set sets sets etst
