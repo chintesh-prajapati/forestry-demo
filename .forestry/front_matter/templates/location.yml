@@ -6,21 +6,22 @@ fields:
 - type: text
   name: street_address
   label: Street Address
+  default: Test
 - name: city
   label: City
   type: text
   hidden: false
-  default: ''
+  default: test
 - name: state
   label: State
   type: text
   hidden: false
-  default: ''
+  default: test
 - name: slug
   label: Slug
   type: text
   hidden: false
-  default: ''
+  default: test
 pages:
 - _location/location-15-11-2018-1.md
 - _location/test.md
