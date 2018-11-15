@@ -6,8 +6,8 @@ city: New demo address
 state: Address
 slug: address
 menu:
-  footer:
-    weight: 4
-    title: demo
+  navigation:
+    weight: 6
+    title: ''
 
 ---
