@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Location
   create: all
-  match: "**/_location*"
+  match: _location
   templates:
   - location
 - type: heading
