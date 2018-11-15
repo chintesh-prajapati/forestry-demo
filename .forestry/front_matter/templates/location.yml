@@ -22,6 +22,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _location/location-demo.md
 - New page demo t.md
 - _location/demo-location.md
