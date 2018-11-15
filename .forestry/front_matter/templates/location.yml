@@ -27,5 +27,6 @@ fields:
   name: new_address
   default: Test
 pages:
+- location-new.md
 - location-demo-post.md
 - New page demo t.md
