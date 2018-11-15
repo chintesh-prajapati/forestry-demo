@@ -9,6 +9,5 @@ date: 2018-11-15 13:01:23 +0000
 menu:
   navigation:
     weight: 2
-published: false
 
 ---
