@@ -8,6 +8,5 @@ slug: address
 menu:
   navigation:
     weight: 6
-    title: ''
 
 ---
