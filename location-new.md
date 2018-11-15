@@ -6,6 +6,5 @@ city: test
 slug: test
 new_address: Test default address
 date: 2018-11-15 13:07:43 +0000
-published: false
 
 ---
