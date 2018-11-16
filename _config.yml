@@ -10,11 +10,6 @@ defaults:
       layout: page
   - scope:
       path: ""
-      type: location
-    values:
-      layout: location
-  - scope:
-      path: ""
       type: posts
     values:
       layout: post
