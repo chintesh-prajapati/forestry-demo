@@ -26,9 +26,6 @@ fields:
   label: New address
   name: new_address
   default: ''
-- type: file
-  name: upload_image
-  label: Upload image
 pages:
 - _location/wererwerwerre.md
 - testing-page.md
