@@ -30,6 +30,7 @@ fields:
   name: upload_image
   label: Upload image
 pages:
+- _location/asdfasdad.md
 - _location/ewt.md
 - rest-location-demo.md
 - demo-location-page.md
