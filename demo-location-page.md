@@ -9,6 +9,6 @@ new_address: test address
 menu:
   navigation:
     weight: 6
-    title: L
+    title: Demo l page
 
 ---
