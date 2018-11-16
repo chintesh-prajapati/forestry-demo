@@ -9,6 +9,9 @@ sections:
   label: My custom post
   create: all
   match: _custom_post
+  templates:
+  - location
+  - test
 - type: directory
   path: _location
   label: Location
