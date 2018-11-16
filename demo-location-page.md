@@ -6,6 +6,5 @@ street_address: Location address
 city: City address
 slug: test
 new_address: test address
-published: false
 
 ---
