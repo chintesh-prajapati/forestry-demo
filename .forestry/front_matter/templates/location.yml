@@ -27,6 +27,7 @@ fields:
   name: new_address
   default: ''
 pages:
+- rest-location-demo.md
 - demo-location-page.md
 - l.md
 - location-new-post.md
