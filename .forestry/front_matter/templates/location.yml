@@ -28,6 +28,7 @@ fields:
   default: Test
 pages:
 - l.md
+- l.md
 - location-new-post.md
 - location-new.md
 - location-demo-post.md
