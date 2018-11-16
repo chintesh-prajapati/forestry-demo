@@ -10,5 +10,6 @@ menu:
   navigation:
     weight: 6
     title: L
+published: false
 
 ---
