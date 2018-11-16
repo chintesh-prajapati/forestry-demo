@@ -5,10 +5,6 @@ street_address: Test
 city: Test
 state: test effwefwefewfwef
 slug: test
-menu:
-  navigation:
-    weight: 6
-    title: Test page
 
 ---
 eryetrtertetrert fgdfgdfgdfgdfg weewewwer
