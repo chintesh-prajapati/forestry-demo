@@ -6,6 +6,5 @@ street_address: dfg
 city: dfg
 slug: dfg
 new_address: dfg
-published: false
 
 ---
