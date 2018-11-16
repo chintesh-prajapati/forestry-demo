@@ -10,11 +10,19 @@ defaults:
       layout: page
   - scope:
       path: ""
+      type: location
+    values:
+      layout: location
+  - scope:
+      path: ""
       type: posts
     values:
       layout: post
 collections:
-  people: 
+  location:
+    output: true
+    permalink: "/location/:path/"
+  people:
     output: true
     permalink: "/about/:path/"
   posts:
