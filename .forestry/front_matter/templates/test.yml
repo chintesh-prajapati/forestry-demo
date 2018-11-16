@@ -1,0 +1,12 @@
+---
+label: test
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: ertert
+  label: ertert
+- type: image_gallery
+  label: reeee
+  name: reeee
+  hidden: false
