@@ -6,5 +6,9 @@ street_address: dfg
 city: dfg
 slug: dfg
 new_address: dfg
+menu:
+  navigation:
+    weight: 7
+    title: testing
 
 ---
