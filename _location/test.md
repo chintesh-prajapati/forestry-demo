@@ -8,7 +8,7 @@ slug: test
 menu:
   navigation:
     weight: 6
-    title: Demo l test
+    title: Test page
 
 ---
 eryetrtertetrert fgdfgdfgdfgdfg weewewwer
