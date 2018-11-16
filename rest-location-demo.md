@@ -6,6 +6,5 @@ street_address: location
 city: location
 slug: location
 new_address: location
-published: false
 
 ---
