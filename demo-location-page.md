@@ -6,10 +6,6 @@ street_address: Location address
 city: City address
 slug: test
 new_address: test address
-menu:
-  navigation:
-    weight: 6
-    title: Demo l page
 
 ---
 DFSgdfgdfgdfg
