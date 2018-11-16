@@ -7,25 +7,25 @@ fields:
   label: State
   type: text
   hidden: false
-  default: test
+  default: ''
 - type: text
   name: street_address
   label: Street Address
-  default: Test
+  default: ''
 - name: city
   label: City
   type: text
   hidden: false
-  default: test
+  default: ''
 - name: slug
   label: Slug
   type: text
   hidden: false
-  default: test
+  default: ''
 - type: text
   label: New address
   name: new_address
-  default: Test
+  default: ''
 pages:
 - l.md
 - l.md
