@@ -27,6 +27,7 @@ fields:
   name: new_address
   default: ''
 pages:
+- _location/hyyyy.md
 - location-new-page.md
 - _location/wererwerwerre.md
 - testing-page.md
