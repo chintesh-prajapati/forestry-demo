@@ -6,6 +6,5 @@ street_address: eewew
 city: ewew
 slug: ewew
 new_address: ewrwerewr
-published: false
 
 ---
