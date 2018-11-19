@@ -6,3 +6,6 @@ fields:
 - type: text
   name: book_title
   label: book title
+- type: textarea
+  name: book_description
+  label: Book description
