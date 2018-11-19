@@ -25,6 +25,5 @@ fields:
   hidden: true
   default: post
 pages:
-- _location/sdfwdff.md
 - location.md
 - demo-page.md
